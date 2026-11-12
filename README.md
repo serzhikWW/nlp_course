@@ -33,13 +33,13 @@
   - Lecture: Prompting techniques. Chain-of-Thought reasoning. In-context learning: how and why it works. Analysis and Interpretability.
   - Homework: manual prompt engineering and chain-of-thought reasoning
 
-- [__week07__](./week07_finetuning) __Fine-tuning (PEFT & RLHF)__
-  - Lecture: Parameter-efficient fine-tuning (LoRA, adapters). Reinforcement Learning from Human Feedback (RLHF).
+- [__week07__](./week07_efficiency) __Efficiency__
+  - Lecture: Model Acceleration & Inference Optimization Techniques.
   - Seminar + Homework
 
-- [__week08__](./week08_efficiency) __Efficiency__
-  - Lecture: Quantization. Distillation. Pruning. Speculative decoding.
-  - Homework
+- [__week08__](./week08_finetuning) __Fine-tuning (PEFT & RLHF)__
+  - Lecture: Parameter-efficient fine-tuning. LoRA. Adapters. Reinforcement Learning from Human Feedback (RLHF).
+  - Seminar + Homework
 
 - [__week09__](./week09_retrieval) __Retrieval-Augmented Generation (RAG)__
   - Lecture: Dense retrieval. RAG architectures.
