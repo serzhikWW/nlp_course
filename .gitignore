@@ -81,3 +81,5 @@ debian/files
 ./week01_embeddings/cc.uk.300.vec
 ./week01_embeddings/cc.uk.300.vec.zip
 ./week01_embeddings/quora.txt
+./week02_lm/arxivData.json
+./week02_lm/arxivData.json.tar.gz
